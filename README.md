@@ -1,5 +1,4 @@
 # BernardoChuchucaP
-# BernardoChuchucaP
 Para poder ejecutar nuestra imagen con la aplicacion deberemos realizar la documentacion, deberemos hacer los siguientes comandos:
 
 ## Ejecutar la imagen dentro del contenedor:
