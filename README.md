@@ -5,7 +5,7 @@ Para poder ejecutar nuestra imagen con la aplicacion deberemos realizar la docum
 
 1. Ejecutar el contenedor Docker: Para poder usar la imagen de esta aplicacion deberemos correr el siguiente comando:
 ```bash
-docker run -d --name <nombre-contenedor> -p 3000:3000 pavlo12/practicavirtu:latest
+docker run -d --name practica_chat -p 3000:3000 bnachoxt/chat_app_f
 ```
 ![Imagen de prueba](imagenes/container.png)
 
